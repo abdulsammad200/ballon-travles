@@ -15,10 +15,30 @@
   letter-spacing: 5px;
 }
 .heading {
-  padding-left: 18%;
   padding-top: 10%;
 }
-.heading2 {
-  padding-left: 28%;
+.body {
+  background-color: #07140d;
+  font-family: "Noto Serif", serif;
 }
-
+.secondsec {
+  height: 300px;
+}
+.img {
+  border-radius: 20px;
+}
+.img1 {
+  border-radius: 10px;
+  transform: rotate(-10deg);
+}
+.img2 {
+  border-radius: 10px;
+  transform: rotate(15deg);
+}
+.text {
+  z-index: 99;
+  margin-left: -30px;
+}
+.thirdsec {
+  height:120px;
+}
